@@ -2,16 +2,16 @@
 
 declare(strict_types=1);
 
-namespace Infisical\SDK;
+namespace HanzoKms\SDK;
 
-use Infisical\SDK\Services\SecretsService;
-use Infisical\SDK\Services\AuthService;
-use Infisical\SDK\Http\HttpClient;
+use HanzoKms\SDK\Services\SecretsService;
+use HanzoKms\SDK\Services\AuthService;
+use HanzoKms\SDK\Http\HttpClient;
 
 /**
  * Main SDK class for interacting with the API
  */
-class InfisicalSDK
+class KmsSDK
 {
     private string $host;
     private HttpClient $httpClient;

@@ -2,15 +2,15 @@
 
 declare(strict_types=1);
 
-namespace Infisical\SDK\Services;
+namespace HanzoKms\SDK\Services;
 
-use Infisical\SDK\Models\Secret;
-use Infisical\SDK\Models\ListSecretsParameters;
-use Infisical\SDK\Http\HttpClient;
-use Infisical\SDK\Models\CreateSecretParameters;
-use Infisical\SDK\Models\DeleteSecretParameters;
-use Infisical\SDK\Models\GetSecretParameters;
-use Infisical\SDK\Models\UpdateSecretParameters;
+use HanzoKms\SDK\Models\Secret;
+use HanzoKms\SDK\Models\ListSecretsParameters;
+use HanzoKms\SDK\Http\HttpClient;
+use HanzoKms\SDK\Models\CreateSecretParameters;
+use HanzoKms\SDK\Models\DeleteSecretParameters;
+use HanzoKms\SDK\Models\GetSecretParameters;
+use HanzoKms\SDK\Models\UpdateSecretParameters;
 
 /**
  * Service for managing secrets

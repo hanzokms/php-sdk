@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Infisical\SDK\Http;
+namespace HanzoKms\SDK\Http;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\GuzzleException;

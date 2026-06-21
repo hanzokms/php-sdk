@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Infisical\SDK\Models;
+namespace HanzoKms\SDK\Models;
 
 /**
  * Represents a secret with key and value

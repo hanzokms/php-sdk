@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Infisical\SDK\Models;
+namespace HanzoKms\SDK\Models;
 
 /**
  * Parameters for getting a secret

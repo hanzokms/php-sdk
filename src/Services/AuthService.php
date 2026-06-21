@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Infisical\SDK\Services;
+namespace HanzoKms\SDK\Services;
 
-use Infisical\SDK\Services\UniversalAuthService;
-use Infisical\SDK\Http\HttpClient;
+use HanzoKms\SDK\Services\UniversalAuthService;
+use HanzoKms\SDK\Http\HttpClient;
 
 /**
  * Service for authentication operations

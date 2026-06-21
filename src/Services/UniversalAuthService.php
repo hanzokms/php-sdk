@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Infisical\SDK\Services;
+namespace HanzoKms\SDK\Services;
 
-use Infisical\SDK\Models\MachineIdentityCredential;
-use Infisical\SDK\Http\HttpClient;
+use HanzoKms\SDK\Models\MachineIdentityCredential;
+use HanzoKms\SDK\Http\HttpClient;
 
 /**
  * Service for universal authentication (machine identity)
